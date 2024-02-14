@@ -1,0 +1,21 @@
+{
+  "name": "number-generator",
+  "version": "0.1.0",
+  "description": "github project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://github.com/chrkaw152/number-generator"
+  },
+  "license": "MIT",
+  "keywords": [
+  ]
+}
