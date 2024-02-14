@@ -1,0 +1,25 @@
+body{
+  background-color: #9CABB2;
+  text-align: center;
+}
+
+#output {
+  text-align: center;
+}
+
+h2 {
+    font-family: "Courier New", monospace;
+    font-size: 50px;
+    color: #F0D1C5;
+    display: flex;
+    justify-content: center;
+}
+
+#generate {
+    font-family: "Courier New", monospace;
+    font-size: 25px;
+    color: #FFF2ED;
+    background-color: #EAB1A3;
+    border-radius: 5px;
+    border-color: #FFF2ED #FFF2ED #A7CBDA #A7CBDA;
+}
